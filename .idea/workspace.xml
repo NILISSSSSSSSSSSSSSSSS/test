@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9cdf6edf-579e-4c8f-bf95-bfeb7c3ec722" name="Default Changelist" comment="Merge branch 'master' into test&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;page/footer.txt&#10;#&#9;page/header.txt" />
+=======
+    <list default="true" id="9cdf6edf-579e-4c8f-bf95-bfeb7c3ec722" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/page/footer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/page/footer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/header.txt" beforeDir="false" afterPath="$PROJECT_DIR$/page/header.txt" afterDir="false" />
+    </list>
+>>>>>>> 15581e93e3b34d0e9bda875f820013e650a22e96
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,6 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -23,15 +31,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="13" selection-start-column="13" selection-end-column="13" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/footer.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
+>>>>>>> 15581e93e3b34d0e9bda875f820013e650a22e96
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Page/Footer.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="6" selection-start-column="6" selection-end-column="6" />
+=======
+        <entry file="file://$PROJECT_DIR$/page/header.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+>>>>>>> 15581e93e3b34d0e9bda875f820013e650a22e96
             </state>
           </provider>
         </entry>
@@ -44,9 +66,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/page/footer.txt" />
         <option value="$PROJECT_DIR$/Page/Footer.txt" />
         <option value="$PROJECT_DIR$/Page/Header.txt" />
+=======
+        <option value="$PROJECT_DIR$/page/header.txt" />
+        <option value="$PROJECT_DIR$/page/footer.txt" />
+>>>>>>> 15581e93e3b34d0e9bda875f820013e650a22e96
       </list>
     </option>
   </component>
@@ -119,10 +146,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1200000" />
+=======
+    <option name="totallyTimeSpent" value="364000" />
+>>>>>>> 15581e93e3b34d0e9bda875f820013e650a22e96
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -147,6 +179,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Page/Footer.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -158,6 +191,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/page/header.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/footer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+>>>>>>> 15581e93e3b34d0e9bda875f820013e650a22e96
         </state>
       </provider>
     </entry>
